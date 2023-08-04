@@ -2,7 +2,7 @@
 
 Neste projeto, explorei o potencial do CSS para criar uma experiência temática envolvente. 
 
-## Acesse: (  )
+## Acesse: ( https://wbrunotech.github.io/sitePokemon/ )
 
 A estrutura foi projetada com uma abordagem organizada, destacada pela classe ".limita-largura", garantindo uma exibição esteticamente agradável em diversas resoluções de tela. 
 
